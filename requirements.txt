@@ -1,0 +1,19 @@
+# Core requirements for running the notebooks (paths removed for portability)
+# Generated from the full pinned environment; local build paths were removed to make this file portable.
+
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn
+matplotlib
+seaborn
+plotly
+jupyter
+jupyterlab
+ipykernel
+notebook
+tensorflow==2.15.0
+keras
+joblib
+python-dateutil
+
+# To reproduce the exact environment, see `requirements-full.txt` (contains full pip freeze output including local build references).
